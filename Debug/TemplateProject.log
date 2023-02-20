@@ -1,0 +1,8 @@
+﻿cl : línea de comandos  warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+C:\Users\willi\Downloads\Nueva carpeta (2)\hola (1)\hola\GLSL_Lighting\GLSL_Lighting\main.cpp(55,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\willi\Downloads\Nueva carpeta (2)\hola (1)\hola\GLSL_Lighting\GLSL_Lighting\main.cpp(56,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\willi\Downloads\Nueva carpeta (2)\hola (1)\hola\GLSL_Lighting\GLSL_Lighting\main.cpp(57,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\willi\Downloads\Nueva carpeta (2)\hola (1)\hola\GLSL_Lighting\GLSL_Lighting\main.cpp(58,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\willi\Downloads\Nueva carpeta (2)\hola (1)\hola\GLSL_Lighting\GLSL_Lighting\main.cpp(59,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  TemplateProject.vcxproj -> C:\Users\willi\Downloads\Nueva carpeta (2)\hola (1)\hola\GLSL_Lighting\GLSL_Lighting\Debug\TemplateProject.exe
